@@ -1,0 +1,104 @@
+/* https://colorhunt.co/palette/b5d5c5b08bbbeca869f5f5dc */
+/* https://colorhunt.co/palette/ada2ffc0deffffe5f1fff8e1 */
+/* V Active pallete V */
+/* https://colorhunt.co/palette/f0e9d2e6ddc4678983181d31 */
+
+/* reference site: https://mattfarley.ca/ */
+
+
+body {
+    font-family: 'Rubik', sans-serif;
+    background-color: #E6DDC4;
+}
+
+h1, h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    padding-top: .5em;
+}
+
+a {
+    color: #3d504c;
+    
+}
+
+a:hover {
+    color:#678983;
+}
+
+#title, #contact, #audio, #programming {
+    background-color: #E6DDC4;
+    color: #181D31;
+    padding: 5em 3em;
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    background-color: #181D31;
+    color:#F0E9D2;
+    padding-top: 7px;
+    padding-bottom: 0;
+}
+
+.nav {
+    background-color: #181D31;
+    border-color: #E6DDC4 !important;
+}
+
+.nav-link {
+    color: #F0E9D2;  
+    background-color: #E6DDC4;
+    font-size: 2em;
+}
+.nav-link:hover {
+    color: #678983;
+}
+
+.active{
+    background-color: #E6DDC4 !important;
+    border-color: #E6DDC4 !important;
+    color: #181D31; 
+}
+
+.title-text {
+    padding: 0;
+    margin: 0;
+}
+
+.main-title{
+    font-family: 'Caveat', cursive;
+    font-size: 6em;
+}
+
+.about {
+    padding: 2.5em .5em;
+    margin: .5em;
+    text-align: center;
+}
+
+.title-image {
+    padding: 5px;
+    border-radius: 40%;
+    max-width: 30em;
+}
+
+.contact-link {
+    padding: 1em .5em;
+}
+
+.programming-icon {
+    font-size: 9em;
+    color:#181D31;
+}
+
+.social-icon {
+    color: #F0E9D2;
+    font-size: 1.2em;
+    margin: auto 8px;
+}
+
+.copyright {
+    font-size: .8em;
+    padding-top: 5px;
+    padding-bottom: 0;
+}
