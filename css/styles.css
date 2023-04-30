@@ -111,6 +111,15 @@ a:hover {
     list-style-position: inside;
 }
 
+.service-list-container {
+    text-align: center;
+}
+
+.service-list {
+    display: inline-block;
+    text-align: left;
+}
+
 .education {
     text-align: left;
 }
