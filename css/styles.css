@@ -1,7 +1,7 @@
 /* https://colorhunt.co/palette/b5d5c5b08bbbeca869f5f5dc */
 /* https://colorhunt.co/palette/ada2ffc0deffffe5f1fff8e1 */
 /* V Active pallete V */
-/* https://colorhunt.co/palette/f0e9d2CA9696ff678983A38783ff */
+/* https://colorhunt.co/palette/f0e9d2CA9696ff678983211E1Cff */
 
 /* reference site: https://mattfarley.ca/ */
 
@@ -27,21 +27,21 @@ a:hover {
 
 #title, #contact, #audio, #programming {
     background-color: #CA9696ff;
-    color: #A38783ff;
+    color: #211E1Cff;
     padding: 5em 2em;
     text-align: center;
 }
 
 #footer {
     text-align: center;
-    background-color: #A38783ff;
+    background-color: #211E1Cff;
     color:#F0E9D2;
     padding-top: 1em;
     padding-bottom: 0;
 }
 
 .nav {
-    background-color: #A38783ff;
+    background-color: #211E1Cff;
     border-color: #CA9696ff !important;
 }
 
@@ -57,12 +57,12 @@ a:hover {
 .active{
     background-color: #CA9696ff !important;
     border-color: #CA9696ff !important;
-    color: #A38783ff; 
+    color: #211E1Cff; 
 }
 
 .dropdown-menu {
     background-color: #CA9696ff;
-    color:#A38783ff;
+    color:#211E1Cff;
     font-size: 2em;
     text-align: center;
     padding: 0;
@@ -144,7 +144,7 @@ a:hover {
 
 .programming-icon {
     font-size: 9em;
-    color:#A38783ff;
+    color:#211E1Cff;
 }
 
 .social-icon {
